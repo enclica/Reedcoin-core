@@ -1,7 +1,7 @@
 reedcoin integration/staging tree
 ================================
 
-http://www.reedcoin.org
+http://www.reedcoin.cf
 
 Copyright (c) 2009-2021 Bitcoin Developers
 Copyright (c) 2021 reedcoin Developers

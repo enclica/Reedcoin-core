@@ -1,0 +1,9 @@
+Building reedcoin
+
+See doc/readme-qt.rst for instructions on building reedcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of reedcoin.
+
+See doc/build-*.txt for instructions on building reedcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of reedcoin.

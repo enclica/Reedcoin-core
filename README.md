@@ -3,23 +3,20 @@ reedcoin integration/staging tree
 
 http://www.reedcoin.org
 
-Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 reedcoin Developers
+Copyright (c) 2009-2021 Bitcoin Developers
+Copyright (c) 2021 reedcoin Developers
 
 What is reedcoin?
 ----------------
 
-reedcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
+reedcoin is a Fork of litecoin using scrypt as a proof-of-work algorithm and is not meant to replace dogecoin but instead exist alongside.
+ - 2 minute block targets
+ - ~100 million total coins
 
 The rest is the same as Bitcoin.
  - 50 coins per block
  - 2016 blocks to retarget difficulty
 
-For more information, as well as an immediately useable, binary version of
-the reedcoin client sofware, see http://www.reedcoin.org.
 
 License
 -------

@@ -12,7 +12,7 @@ What is reedcoin?
 reedcoin is a Fork of litecoin using scrypt as a proof-of-work algorithm and is not meant to replace dogecoin but instead exist alongside.
 
 The rest is the same as Bitcoin.
- - 50 coins per block
+ - 15 coins per block
  - 2016 blocks to retarget difficulty
 
 
